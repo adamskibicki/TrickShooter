@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 97a1ac0eb06fbd74fb731d97e17edbf8
+timeCreated: 1460092825
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Aura: {fileID: 125378, guid: 56a63df3ade574f40809df849dd347fa, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
